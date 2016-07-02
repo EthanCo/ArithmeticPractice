@@ -4,7 +4,7 @@ package com.ethanco.myarithmetictest;
  * 第1章 排序
  * Created by EthanCo on 2016/5/28.
  */
-public class SortUtil {
+public class SortUtil implements IArithmetic {
     /**
      * 1.桶排序
      * 非常浪费空间

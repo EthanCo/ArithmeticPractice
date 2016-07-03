@@ -1,10 +1,10 @@
-package com.ethanco.myarithmetictest;
+package com.ethanco.myarithmetictest.sort;
 
 /**
  * 第1章 排序
  * Created by EthanCo on 2016/5/28.
  */
-public class SortUtil implements IArithmetic {
+public class SortUtil implements ISort {
     /**
      * 1.桶排序
      * 非常浪费空间

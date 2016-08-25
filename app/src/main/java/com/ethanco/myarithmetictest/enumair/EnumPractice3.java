@@ -62,7 +62,7 @@ public class EnumPractice3 {
      */
     public static void dfs(int x, int y, int step) {
         //判断是否到达小哈的位置
-        System.out.println("x=" + x + ";y=" + y);
+        System.out.println("x=" + x + ";y=" +   y);
         if (x == p && y == q) {
             System.out.println("dfs min:" + min + ",step=" + step);
             //更新最小值
